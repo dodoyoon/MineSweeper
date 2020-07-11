@@ -7,3 +7,4 @@ MineSweeper Game for Java Programming Course
 - edit 4
 - edit 5
 - edit 6
+- edit 7
