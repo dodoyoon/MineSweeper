@@ -9,3 +9,4 @@ MineSweeper Game for Java Programming Course
 - test5
 - test6
 - tst7
+- test8
