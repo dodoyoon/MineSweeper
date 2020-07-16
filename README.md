@@ -23,3 +23,4 @@ MineSweeper Game for Java Programming Course
 - test19
 - test20
 - test21
+- test22
